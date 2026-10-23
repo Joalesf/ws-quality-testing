@@ -1,0 +1,7 @@
+/storage/evidence/*
+!/storage/evidence/.gitkeep
+/respaldo-local/
+*.rar
+*.zip
+.env
+config/local.php
